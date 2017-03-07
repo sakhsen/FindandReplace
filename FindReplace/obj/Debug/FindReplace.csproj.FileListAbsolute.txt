@@ -1,0 +1,17 @@
+D:\686082\CDPVNext\Tools\FindReplace\FindReplace\bin\Debug\FindReplace.exe.config
+D:\686082\CDPVNext\Tools\FindReplace\FindReplace\bin\Debug\FindReplace.exe
+D:\686082\CDPVNext\Tools\FindReplace\FindReplace\bin\Debug\FindReplace.pdb
+D:\686082\CDPVNext\Tools\FindReplace\FindReplace\obj\Debug\FindReplace.Form1.resources
+D:\686082\CDPVNext\Tools\FindReplace\FindReplace\obj\Debug\FindReplace.Properties.Resources.resources
+D:\686082\CDPVNext\Tools\FindReplace\FindReplace\obj\Debug\FindReplace.csproj.GenerateResource.Cache
+D:\686082\CDPVNext\Tools\FindReplace\FindReplace\obj\Debug\FindReplace.exe
+D:\686082\CDPVNext\Tools\FindReplace\FindReplace\obj\Debug\FindReplace.pdb
+D:\GitHub\FindandReplace\FindReplace\bin\Debug\FindReplace.exe.config
+D:\GitHub\FindandReplace\FindReplace\bin\Debug\FindReplace.exe
+D:\GitHub\FindandReplace\FindReplace\bin\Debug\FindReplace.pdb
+D:\GitHub\FindandReplace\FindReplace\obj\Debug\FindReplace.csprojResolveAssemblyReference.cache
+D:\GitHub\FindandReplace\FindReplace\obj\Debug\FindReplace.Form1.resources
+D:\GitHub\FindandReplace\FindReplace\obj\Debug\FindReplace.Properties.Resources.resources
+D:\GitHub\FindandReplace\FindReplace\obj\Debug\FindReplace.csproj.GenerateResource.Cache
+D:\GitHub\FindandReplace\FindReplace\obj\Debug\FindReplace.exe
+D:\GitHub\FindandReplace\FindReplace\obj\Debug\FindReplace.pdb
